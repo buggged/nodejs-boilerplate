@@ -53,8 +53,8 @@ tests: Where all your tests goes in
 src: Main working directory  
   
 src/api: Things related to Rest Api Handelling  
-src/api/routes: All routes defined here
-src/api/controllers: Validate route parameters and call service to executer business logic  
+src/api/routes: All routes defined here  
+src/api/controllers: Validate route parameters and call service to execute business logic  
 src/api/middlewares: Route middlewares goes in here
   
 src/config: Load .env configs to a constant and export it so we will get intillesence  
